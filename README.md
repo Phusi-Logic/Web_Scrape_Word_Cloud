@@ -1,2 +1,2 @@
-# Word_Cloud
+# Web_Scrape_To_Word_Cloud
 Aim to make a simple program to browse for a file and make a wordcloud plot.
