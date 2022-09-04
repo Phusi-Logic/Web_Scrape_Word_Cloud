@@ -1,4 +1,4 @@
-# Word_Cloud
+# Web_Scrape_Word_Cloud
 A simple script to do the following:
 1. Get the html from a webpage using requests
 2. Extract the text using beautiful soup
